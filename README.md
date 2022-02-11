@@ -10,3 +10,7 @@ access_specifier methodName (param list){
 method body
 }
 }
+
+### create a method
+
+you can create methods in java class
