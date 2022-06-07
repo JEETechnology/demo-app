@@ -1,4 +1,4 @@
-package com.example.jacocojavademo;
+package com.example.jacocojavademo.calculator;
 
 public class SimpleCalculator {
 	
